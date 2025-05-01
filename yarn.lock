@@ -3964,21 +3964,13 @@
     "@visx/point" "3.12.0"
     prop-types "^15.5.10"
 
-"@visx/event@3.12.0":
+"@visx/event@3.12.0", "@visx/event@^3.12.0":
   version "3.12.0"
   resolved "https://registry.yarnpkg.com/@visx/event/-/event-3.12.0.tgz#61ea741f9d4b9df75277de25a3bf4f5562add3f9"
   integrity sha512-9Lvw6qJ0Fi+y1vsC1WspfdIKCxHTb7oy59Uql1uBdPGT8zChP0vuxW0jQNQRDbKgoefj4pCXAFi8+MF1mEtVTw==
   dependencies:
     "@types/react" "*"
     "@visx/point" "3.12.0"
-
-"@visx/event@^2.6.0":
-  version "2.17.0"
-  resolved "https://registry.yarnpkg.com/@visx/event/-/event-2.17.0.tgz#220c7674505e0d7a55f36bce9575482a7fa7dc23"
-  integrity sha512-fg2UWo89RgKgWWnnqI+i7EF8Ry+3CdMHTND4lo4DyJvcZZUCOwhxCHMQ4/PHW0EAUfxI51nGadcE1BcEVR5zWw==
-  dependencies:
-    "@types/react" "*"
-    "@visx/point" "2.17.0"
 
 "@visx/gradient@^2.10.0":
   version "2.17.0"
